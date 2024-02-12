@@ -38,6 +38,9 @@ This landing page serves as the entry point for visitors to our company's websit
 
 ### screenshot
 
+![image](https://github.com/FREDVUNI/business-website/assets/41730664/0ed5faa5-de56-4628-a1da-f53449fc16fb)
+
+
 ## Styling
 
 - Utilizes styled-components for styling the components.
