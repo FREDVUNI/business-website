@@ -66,7 +66,7 @@ const Footer = () =>{
                         ULTRA
                     </SocialLogo>
                     <WebsiteRights>
-                        ULTRA &copy; 2021
+                        ULTRA &copy; document.write(new Date().getFullYear());
                     </WebsiteRights>
                     <SocialIcons>
                         <SocialIconLink to="/" target="_blank" aria-label="Facebook">
