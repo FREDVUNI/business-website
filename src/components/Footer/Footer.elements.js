@@ -24,7 +24,6 @@ export const FooterSubscription = styled.section `
 `; 
 
 export const FooterSubHeading = styled.p`
-    font-family:'Trebuchet Hs','Lucida Sans unicode','Lucida Grande','Lucida Sans',Arial,san-serif;
     margin-bottom:24px;
     font-size:24px;
 `;
