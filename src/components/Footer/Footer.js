@@ -66,7 +66,7 @@ const Footer = () =>{
                         ULTRA
                     </SocialLogo>
                     <WebsiteRights>
-                        ULTRA &copy; {{ new Date().getFullYear() }}
+                        ULTRA &copy; {{ new Date().getFullYear() }} 
                     </WebsiteRights>
                     <SocialIcons>
                         <SocialIconLink to="/" target="_blank" aria-label="Facebook">
