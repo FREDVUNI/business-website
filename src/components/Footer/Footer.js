@@ -7,6 +7,7 @@ import {FooterContainer,FooterSubscription,FooterSubHeading,
 SocialMedia,SocialMediaWrap,SocialLogo,SocialIcons,SocialIconLink,SocialIcon,WebsiteRights} from './Footer.elements'
 
 const Footer = () =>{
+   const currentYear = new Date().getFullYear();
     return(
         <FooterContainer>
             <FooterSubscription>
@@ -66,7 +67,7 @@ const Footer = () =>{
                         ULTRA
                     </SocialLogo>
                     <WebsiteRights>
-                        ULTRA &copy; {{ new Date().getFullYear() }} 
+                        ULTRA &copy; { currentYear } 
                     </WebsiteRights>
                     <SocialIcons>
                         <SocialIconLink to="/" target="_blank" aria-label="Facebook">
